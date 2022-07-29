@@ -1,0 +1,10 @@
+  ______ _____ ______ _____ ___ ______
+  | |  | |     | |  | |    | |  |    |
+    |    |____   |    |____| |  |____
+    |    |       |    |\     |       |
+    |    |____   |    |  \  _|_ |____|
+                                  by George
+Press x to continue or you can switch the command by pressing w or s :)
+
+
+
