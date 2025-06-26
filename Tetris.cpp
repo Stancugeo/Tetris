@@ -76,6 +76,8 @@ public:
             };
             forms = vec[0];
             rots = vec;
+            cout << "Hello";
+            
 
 
         }
